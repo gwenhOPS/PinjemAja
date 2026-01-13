@@ -1,4 +1,4 @@
-# PinjemAja
+# PinjemAja 🤝
 
 Pinjem aja merupakan Aplikasi dan web dengan sistem Peminjaman Alat & barang Yang digunakan di sekolah.
 Di lingkungan sekolah, kampus, kantor, dan komunitas sering terjadi aktivitas peminjaman barang seperti:
